@@ -1,5 +1,5 @@
 # Shorturlfy
-Shouft Url Shortener allows you to reduce a long link, so you can use a shorter one, which points to the same page.
+Shorturlfy Url Shortener allows you to reduce a long link, so you can use a shorter one, which points to the same page.
 
 ## How It Works
 The Web App is hosted on AWS 
