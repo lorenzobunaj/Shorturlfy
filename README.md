@@ -1,4 +1,4 @@
-# Shouft
+# Shorturlfy
 Shouft Url Shortener allows you to reduce a long link, so you can use a shorter one, which points to the same page.
 
 ## How It Works
